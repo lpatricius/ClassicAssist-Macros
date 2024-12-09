@@ -1,5 +1,5 @@
 # Name: Training
-# Description: Training inscription from 30 to 100
+# Description: Training Inscription from 30 to 100
 # Author: Lissandro
 # Shard: UOG-Demise
 # Date: Mon Nov 04 2024
